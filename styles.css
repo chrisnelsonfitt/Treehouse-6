@@ -88,15 +88,15 @@ footer {
 width:140px;
     height: 120px;
 }
+a{
 
+}
 .nav-icons{
 height:14px;
-fill:#39ADD1;
+    
+
 }
 
-.nav-icons:hover{
-    fill:black;
-}
 
 @media screen and (min-width:421px){
     .logo-title{
